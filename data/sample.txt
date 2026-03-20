@@ -1,0 +1,7 @@
+Modbus is a communication protocol used in industrial control systems.
+
+DNP3 is used in SCADA systems for secure and reliable communication.
+
+A replay attack is when an attacker captures valid data and retransmits it to trick a system.
+
+Intrusion Detection Systems (IDS) monitor network traffic to detect suspicious activity.
